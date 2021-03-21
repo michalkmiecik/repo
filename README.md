@@ -1,1 +1,2 @@
 - Narzędzia do automatyzacji budowy oprogramowania
+- Druga linijka elo
