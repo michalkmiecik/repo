@@ -1,1 +1,1 @@
--Narzędzia do automatyzacji budowy oprogramowania
+- Narzędzia do automatyzacji budowy oprogramowania
